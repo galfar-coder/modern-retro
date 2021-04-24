@@ -9,6 +9,8 @@
  * @
  */
 
+@import url("https://raw.githubusercontent.com/galfar-coder/modern-retro/main/main.css")
+
 :root {
     /* MENTION CIRCLE(default discord: red and white text) and background for mentioned messages */
     --mention-circle-color: rgba(100,100,10,0.9);
