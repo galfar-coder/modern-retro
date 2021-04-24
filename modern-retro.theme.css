@@ -1,4 +1,4 @@
-/*
+/**
  * @name Modern Retro
  * @version 0.1
  * @description makes discord look retro but feel modern at same time
@@ -6,10 +6,9 @@
  * @authorId 465414607767339011
  * @source https://github.com/galfar-coder/modern-retro/
  * @invite jBhsHsYkAA
- * @
- */
+*/
 
-@import url("https://raw.githubusercontent.com/galfar-coder/modern-retro/main/main.css")
+@import url("https://raw.githubusercontent.com/galfar-coder/modern-retro/main/main.css");
 
 :root {
     /* MENTION CIRCLE(default discord: red and white text) and background for mentioned messages */
