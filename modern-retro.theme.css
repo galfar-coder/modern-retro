@@ -1,0 +1,39 @@
+/*
+ * @name Modern Retro
+ * @version 0.1
+ * @description makes discord look retro but feel modern at same time
+ * @author galfar#1954
+ * @authorId 465414607767339011
+ * @source https://github.com/galfar-coder/modern-retro/
+ * @invite jBhsHsYkAA
+ * @
+ */
+
+:root {
+    /* MENTION CIRCLE(default discord: red and white text) and background for mentioned messages */
+    --mention-circle-color: rgba(100,100,10,0.9);
+    --mention-circle-text-color: white;
+    --mention-message-color: rgba(255, 255, 0, 0.25);
+
+    /* color shades used for UI in all places */
+    --darker-shade: rgba(10,10,25,0.80);
+    --lighter-shade: rgba(10,25,25,0.49);
+
+    /* used for #<autocomplete> menu */
+    --background-color: rgba(10,10,10,0.95);
+
+    /* emoji blur for diabled emojis(set to 0px if you dont want the blur) */
+    --blur-radius: 5px;
+
+    /* self explanatory */
+    --text-color: white;
+    --reply-color: yellowgreen;
+    --shadow-color: black;
+
+    /* defines how rounded is the icon */
+    --server-logo-radius: 15px;
+
+    /* background for calling(--call-background) and whole discord backgound(--background) */
+    --call-background: linear-gradient(to bottom left, violet, indigo, blue, green, yellow, orange, red);
+    --background: url("https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png");
+}
