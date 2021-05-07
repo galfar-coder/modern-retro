@@ -143,7 +143,8 @@ body {
 .activity-1ythUs,
 .expandedFolderBackground-1cujaW,
 .container-1giJp5,
-.radioBar-bMNUI- {
+.radioBar-bMNUI-,
+.members-1998pB.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
   background: var(--darker-shade) !important;
 }
 
@@ -284,3 +285,4 @@ body {
 #app-mount .da-messageGroupBlocked {
   display: none;
 }
+/*# sourceMappingURL=custom.css.map */
