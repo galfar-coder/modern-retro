@@ -282,6 +282,6 @@ body {
   background: rgba(0, 0, 0, var(--settings-background-opacity));
 }
 
-#app-mount .da-messageGroupBlocked {
+#app-mount .blockedSystemMessage-2Rk1ek.container-3-pyIM {
   display: none;
 }
